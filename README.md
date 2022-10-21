@@ -44,7 +44,7 @@
         
 * **Diseases correlation**: The dataset documentation explains the correlation between those multiple diseases. Since we thought this model as a unique-label classificator, then we found an improvement opportunity for our model accuracy here.
 
-![screenshot](https://winter-anchovy-50e.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F49590d87-92f5-40cf-96af-3ba9d5b2e9fa%2FUntitled.png?table=block&id=654aaf98-b051-42ec-ab55-d838bee88c8f&spaceId=12eea25e-0790-4a8f-aa1c-b60f93c02da2&width=1440&userId=&cache=v2)
+![screenshot](https://winter-anchovy-50e.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F01873699-f86d-4d31-9366-b04c9c1a56fe%2FUntitled.png?table=block&id=31fbfd52-4042-4b48-8e14-903249e924b6&spaceId=12eea25e-0790-4a8f-aa1c-b60f93c02da2&width=1440&userId=&cache=v2)
 
 * **Data set treatment**: Ordering the data and changing string labels to number labels (from 1 up to 14) and importing this with `DataFrame` julia package (which is analog with respect to pandas DataFrames).
 
