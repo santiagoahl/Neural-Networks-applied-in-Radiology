@@ -22,6 +22,8 @@
 
 ![screenshot](https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/61e9d024a8f37c0c35fc7aad_ChestX-ray14-0000001144-46559e6f_9iVbS0m.jpeg)
 
+Note: We are currently optimizing the model. Building a deeper CNN arquitecture and clean better the data.
+
 ## Model overview
 
 * **ChestX-ray14 Dataset** which consist on
