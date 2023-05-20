@@ -20,8 +20,6 @@
   <a href="#credits">Credits</a> •
 </p>
 
-![screenshot](https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/61e9d024a8f37c0c35fc7aad_ChestX-ray14-0000001144-46559e6f_9iVbS0m.jpeg)
-
 Note: We are currently optimizing the model. Building a deeper CNN arquitecture and cleaning better the data.
 
 ## Model overview
@@ -45,8 +43,6 @@ Note: We are currently optimizing the model. Building a deeper CNN arquitecture 
         - Hernia.
         
 * **Diseases correlation**: The dataset documentation explains the correlation between those multiple diseases. Since we thought this model as a unique-label classificator, then we found an improvement opportunity for our model accuracy here.
-
-![screenshot](https://winter-anchovy-50e.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F01873699-f86d-4d31-9366-b04c9c1a56fe%2FUntitled.png?table=block&id=31fbfd52-4042-4b48-8e14-903249e924b6&spaceId=12eea25e-0790-4a8f-aa1c-b60f93c02da2&width=1440&userId=&cache=v2)
 
 * **Data set treatment**: Ordering the data and changing string labels to number labels (from 1 up to 14) and importing this with `DataFrame` julia package (which is analog with respect to pandas DataFrames).
 
